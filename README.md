@@ -7,7 +7,7 @@
 [VOTE](https://top.gg/bot/1096394407823028276)
 
 I Am Void that skid Discord Bots codes and Websites!
-- 🔭 I’m currently working on public selfbot
+- 🔭 I’m currently working on Nexuss
 - Discord - [V O I D](https://discord.com/users/932031167778127963)
 - Instagram - [lucifer.fyy](https://instagram.com/lucifer.fyy)
 

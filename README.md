@@ -12,7 +12,7 @@ I Am Void that skid Discord Bots codes and Websites!
 - Instagram - [lucifer.fyy](https://instagram.com/lucifer.fyy)
 
 ## Second Account
-![voidfy69](https://github.com/voidfy69)
+[voidfy69](https://github.com/voidfy69)
 
 
 # My GitHub Stats 📊

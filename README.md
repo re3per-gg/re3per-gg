@@ -1,16 +1,26 @@
-## Hi there 👋
+## About Me:
 
-<!--
-**re3per-gg/re3per-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord Presence](https://lanyard.cnrad.dev/api/1207080455225213061)](https://discord.com/users/1207080455225213061)
 
-Here are some ideas to get you started:
+[![Discord Bots](https://top.gg/api/widget/1096394407823028276.svg)(https://top.gg/bot/1096394407823028276)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I Am Void that skid Discord Bots codes and Websites!
+- 🔭 I’m currently working on public selfbot
+- Discord - [V O I D](https://discord.com/users/932031167778127963)
+- Instagram - [lucifer.fyy](https://instagram.com/lucifer.fyy)
+
+## Second Account
+![voidfy69](https://github.com/voidfy69)
+
+
+# My GitHub Stats 📊
+
+[![GitHub](https://github-readme-stats.vercel.app/api?username=voidfy69&theme=tokyonight)](https://github.com/voidfy69)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidfy69&theme=tokyonight&layout=compact)](https://github.com/voidfy69)
+
+
+
+
+
+### Check out some of my pinned projects below:
